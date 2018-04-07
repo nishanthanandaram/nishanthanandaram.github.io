@@ -4,9 +4,9 @@
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://blackrockdigital.github.io/startbootstrap-resume/)
+[![Resume Preview](https://github.com/nishanthanandaram/nishanthanandaram.github.io/blob/resume-edits/img/preview.PNG)](https://nishanthanandaram.github.io/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+**[View Live Preview](https://nishanthanandaram.github.io/)**
 
 ## Status
 
