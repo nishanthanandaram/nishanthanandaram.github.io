@@ -4,6 +4,8 @@
 
 ## Preview
 
+[![Resume Preview](https://github.com/nishanthanandaram/nishanthanandaram.github.io/blob/resume-edits/img/preview.PNG)]
+
 **[View Live Preview](https://nishanthanandaram.github.io/)**
 
 ## Status
