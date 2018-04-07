@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Resume Preview](https://github.com/nishanthanandaram/nishanthanandaram.github.io/blob/resume-edits/img/preview.PNG)]
+[![Resume Preview](https://github.com/nishanthanandaram/nishanthanandaram.github.io/blob/resume-edits/img/preview.PNG)](https://nishanthanandaram.github.io/)
 
 **[View Live Preview](https://nishanthanandaram.github.io/)**
 
